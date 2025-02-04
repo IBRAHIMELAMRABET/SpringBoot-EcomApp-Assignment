@@ -14,4 +14,6 @@ public class OrderItemDTO {
 
     @NotNull(message = "Product ID is required")
     private Long productId;
+
+    private Double price;
 }
