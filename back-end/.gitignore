@@ -34,4 +34,4 @@ build/
 
 ### Jwt ###
 src/main/resources/jwt
-src/main/resources
+src/main/resources/application.properties
