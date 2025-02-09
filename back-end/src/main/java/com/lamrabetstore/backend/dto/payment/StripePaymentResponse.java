@@ -6,4 +6,5 @@ import lombok.Data;
 public class StripePaymentResponse {
     private String clientSecret;
     private String paymentIntentId;
+
 }
